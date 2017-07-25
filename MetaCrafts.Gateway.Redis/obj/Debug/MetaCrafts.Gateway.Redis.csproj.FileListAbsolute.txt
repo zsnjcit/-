@@ -1,0 +1,8 @@
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\bin\Debug\MetaCrafts.Gateway.Redis.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\bin\Debug\MetaCrafts.Gateway.Redis.pdb
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\bin\Debug\StackExchange.Redis.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\bin\Debug\StackExchange.Redis.xml
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\obj\Debug\MetaCrafts.Gateway.Redis.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\obj\Debug\MetaCrafts.Gateway.Redis.pdb
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Redis\obj\Debug\MetaCrafts.Gateway.Redis.csprojResolveAssemblyReference.cache

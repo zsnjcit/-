@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaCrafts.Gateway.Socket", "MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket.csproj", "{51E4AD18-E369-4827-B238-C668F582657E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkSocket", "..\NetworkSocket\NetworkSocket.csproj", "{80D0FA44-523B-4E68-BDC2-B12901D5855B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{60178716-4254-49D4-94E7-53ED454ACF8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaCrafts.Gateway.Model", "MetaCrafts.Gateway.Model\MetaCrafts.Gateway.Model.csproj", "{65938B2C-0C52-41D8-A6FF-A68F379F4DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaCrafts.Gateway.Common", "MetaCrafts.Gateway.Common\MetaCrafts.Gateway.Common.csproj", "{D6EB67FB-9596-4FAC-A934-0A14C3D3EA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaCrafts.Gateway.Redis", "MetaCrafts.Gateway.Redis\MetaCrafts.Gateway.Redis.csproj", "{2A0ECA9D-2258-49DC-AB2D-A4B425F8AAC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E4AD18-E369-4827-B238-C668F582657E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E4AD18-E369-4827-B238-C668F582657E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E4AD18-E369-4827-B238-C668F582657E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E4AD18-E369-4827-B238-C668F582657E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80D0FA44-523B-4E68-BDC2-B12901D5855B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80D0FA44-523B-4E68-BDC2-B12901D5855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80D0FA44-523B-4E68-BDC2-B12901D5855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80D0FA44-523B-4E68-BDC2-B12901D5855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65938B2C-0C52-41D8-A6FF-A68F379F4DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65938B2C-0C52-41D8-A6FF-A68F379F4DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65938B2C-0C52-41D8-A6FF-A68F379F4DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65938B2C-0C52-41D8-A6FF-A68F379F4DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EB67FB-9596-4FAC-A934-0A14C3D3EA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EB67FB-9596-4FAC-A934-0A14C3D3EA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EB67FB-9596-4FAC-A934-0A14C3D3EA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EB67FB-9596-4FAC-A934-0A14C3D3EA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0ECA9D-2258-49DC-AB2D-A4B425F8AAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0ECA9D-2258-49DC-AB2D-A4B425F8AAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0ECA9D-2258-49DC-AB2D-A4B425F8AAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0ECA9D-2258-49DC-AB2D-A4B425F8AAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2A0ECA9D-2258-49DC-AB2D-A4B425F8AAC0} = {60178716-4254-49D4-94E7-53ED454ACF8B}
+	EndGlobalSection
+EndGlobal

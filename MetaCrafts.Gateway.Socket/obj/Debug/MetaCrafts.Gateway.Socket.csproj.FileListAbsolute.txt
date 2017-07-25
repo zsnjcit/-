@@ -1,0 +1,15 @@
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\MetaCrafts.Gateway.Socket.exe.config
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\MetaCrafts.Gateway.Socket.exe
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\MetaCrafts.Gateway.Socket.pdb
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\MetaCrafts.Gateway.Common.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\MetaCrafts.Gateway.Model.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\NetworkSocket.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\Newtonsoft.Json.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\Topshelf.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\Topshelf.Log4Net.dll
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\NetworkSocket.pdb
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\MetaCrafts.Gateway.Common.pdb
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\bin\Debug\MetaCrafts.Gateway.Model.pdb
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\obj\Debug\MetaCrafts.Gateway.Socket.csprojResolveAssemblyReference.cache
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\obj\Debug\MetaCrafts.Gateway.Socket.exe
+E:\MyProject\MetaCrafts.Gateway.Socket\MetaCrafts.Gateway.Socket\obj\Debug\MetaCrafts.Gateway.Socket.pdb
